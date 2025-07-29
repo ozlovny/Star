@@ -1,2 +1,2 @@
-API_TOKEN: str = '8341059663:AAF-fAHlFmRGNyUIka_WEHF0k6OwBjEJeks'
+API_TOKEN: str = '8'
 STARS_AMOUNT: int = 1
